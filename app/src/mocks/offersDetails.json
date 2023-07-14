@@ -1,0 +1,57 @@
+[
+	{
+		"_id": "64b08360526825a8a14bbfe3",
+		"minimum_quantity": 2,
+		"maximum_quantity": 1,
+		"discount": 20,
+		"description": "20% descuento en articulos seleccionados",
+		"id_offer": "64b073fef01036cf398c3edc",
+		"id_free_product": null,
+		"createdAt": "2023-07-13T23:06:08.681Z",
+		"updatedAt": "2023-07-13T23:06:08.681Z"
+	},
+	{
+		"_id": "64b08393526825a8a14bbfe5",
+		"minimum_quantity": 2,
+		"maximum_quantity": 1,
+		"discount": 50,
+		"description": "Compra 1 y llévate el 2do al 50% ¡Combínalo como quieras!",
+		"id_offer": "64b07452f01036cf398c3ede",
+		"id_free_product": null,
+		"createdAt": "2023-07-13T23:06:59.972Z",
+		"updatedAt": "2023-07-13T23:06:59.972Z"
+	},
+	{
+		"_id": "64b083e2526825a8a14bbfe8",
+		"minimum_quantity": 5,
+		"maximum_quantity": 0,
+		"discount": 2,
+		"description": "Al comprar 5 cervezas solo pagaras por las 3 de mayor precio",
+		"id_offer": "64b07f60f01036cf398c3ee1",
+		"id_free_product": null,
+		"createdAt": "2023-07-13T23:08:18.364Z",
+		"updatedAt": "2023-07-13T23:08:18.364Z"
+	},
+	{
+		"_id": "64b08452526825a8a14bbfea",
+		"minimum_quantity": 2,
+		"maximum_quantity": 1,
+		"discount": 100,
+		"description": "Comprar 2 refrescos grandes y lleva unos vasos desechables gratis",
+		"id_offer": "64b07f81f01036cf398c3ee3",
+		"id_free_product": "64b07171514d6c60bc79ed09",
+		"createdAt": "2023-07-13T23:10:10.184Z",
+		"updatedAt": "2023-07-13T23:10:10.184Z"
+	},
+	{
+		"_id": "64b08495526825a8a14bbfec",
+		"minimum_quantity": 50,
+		"maximum_quantity": 0,
+		"discount": 10,
+		"description": "Por cada $50 de producto en tu orden te descontamos $10 del total de tu orden",
+		"id_offer": "64b07fb8f01036cf398c3ee5",
+		"id_free_product": null,
+		"createdAt": "2023-07-13T23:11:17.321Z",
+		"updatedAt": "2023-07-13T23:11:17.321Z"
+	}
+]

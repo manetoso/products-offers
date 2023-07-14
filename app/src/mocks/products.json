@@ -1,0 +1,189 @@
+[
+	{
+		"_id": "64b06f32a7b82aaccd068bc8",
+		"name": "Deritos Flaming Hot",
+		"unit_price": 45,
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T21:40:02.885Z",
+		"updatedAt": "2023-07-13T21:40:02.885Z"
+	},
+	{
+		"_id": "64b06f59a7b82aaccd068bca",
+		"name": "Pringles Sour Cream",
+		"unit_price": 35,
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T21:40:41.796Z",
+		"updatedAt": "2023-07-13T21:40:41.796Z"
+	},
+	{
+		"_id": "64b06f71a7b82aaccd068bcc",
+		"name": "Lay's Classic",
+		"unit_price": 40,
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T21:41:05.320Z",
+		"updatedAt": "2023-07-13T21:44:59.481Z"
+	},
+	{
+		"_id": "64b07079514d6c60bc79ecf0",
+		"name": "Refles Jamon",
+		"unit_price": 50,
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T21:45:29.859Z",
+		"updatedAt": "2023-07-13T21:45:29.859Z"
+	},
+	{
+		"_id": "64b07094514d6c60bc79ecf2",
+		"name": "Tostitos Nacho Cheese",
+		"unit_price": 55,
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T21:45:56.411Z",
+		"updatedAt": "2023-07-13T21:45:56.411Z"
+	},
+	{
+		"_id": "64b070ca514d6c60bc79ecf5",
+		"name": "Coka-Cola",
+		"unit_price": 30,
+		"id_product_type": {
+			"_id": "64b06c9b5c3d574fc9577ca8",
+			"name": "Refresco"
+		},
+		"createdAt": "2023-07-13T21:46:50.737Z",
+		"updatedAt": "2023-07-13T21:46:50.737Z"
+	},
+	{
+		"_id": "64b070e4514d6c60bc79ecf7",
+		"name": "Pecsi",
+		"unit_price": 25,
+		"id_product_type": {
+			"_id": "64b06c9b5c3d574fc9577ca8",
+			"name": "Refresco"
+		},
+		"createdAt": "2023-07-13T21:47:16.962Z",
+		"updatedAt": "2023-07-13T21:47:16.962Z"
+	},
+	{
+		"_id": "64b070f8514d6c60bc79ecf9",
+		"name": "Spri Lite",
+		"unit_price": 20,
+		"id_product_type": {
+			"_id": "64b06c9b5c3d574fc9577ca8",
+			"name": "Refresco"
+		},
+		"createdAt": "2023-07-13T21:47:36.923Z",
+		"updatedAt": "2023-07-13T21:47:36.923Z"
+	},
+	{
+		"_id": "64b07107514d6c60bc79ecfb",
+		"name": "Mountain Pew",
+		"unit_price": 15,
+		"id_product_type": {
+			"_id": "64b06c9b5c3d574fc9577ca8",
+			"name": "Refresco"
+		},
+		"createdAt": "2023-07-13T21:47:51.484Z",
+		"updatedAt": "2023-07-13T21:47:51.484Z"
+	},
+	{
+		"_id": "64b07112514d6c60bc79ecfd",
+		"name": "Fante",
+		"unit_price": 35,
+		"id_product_type": {
+			"_id": "64b06c9b5c3d574fc9577ca8",
+			"name": "Refresco"
+		},
+		"createdAt": "2023-07-13T21:48:02.170Z",
+		"updatedAt": "2023-07-13T21:48:02.170Z"
+	},
+	{
+		"_id": "64b07128514d6c60bc79ecff",
+		"name": "Tecate",
+		"unit_price": 50,
+		"id_product_type": {
+			"_id": "64b06ca85c3d574fc9577caa",
+			"name": "Cerveza"
+		},
+		"createdAt": "2023-07-13T21:48:24.489Z",
+		"updatedAt": "2023-07-13T21:48:24.489Z"
+	},
+	{
+		"_id": "64b07132514d6c60bc79ed01",
+		"name": "Miyer",
+		"unit_price": 40,
+		"id_product_type": {
+			"_id": "64b06ca85c3d574fc9577caa",
+			"name": "Cerveza"
+		},
+		"createdAt": "2023-07-13T21:48:34.739Z",
+		"updatedAt": "2023-07-13T21:48:34.739Z"
+	},
+	{
+		"_id": "64b0713e514d6c60bc79ed03",
+		"name": "Bud Fat",
+		"unit_price": 45,
+		"id_product_type": {
+			"_id": "64b06ca85c3d574fc9577caa",
+			"name": "Cerveza"
+		},
+		"createdAt": "2023-07-13T21:48:46.303Z",
+		"updatedAt": "2023-07-13T21:48:46.303Z"
+	},
+	{
+		"_id": "64b0714b514d6c60bc79ed05",
+		"name": "Corono",
+		"unit_price": 30,
+		"id_product_type": {
+			"_id": "64b06ca85c3d574fc9577caa",
+			"name": "Cerveza"
+		},
+		"createdAt": "2023-07-13T21:48:59.383Z",
+		"updatedAt": "2023-07-13T21:48:59.383Z"
+	},
+	{
+		"_id": "64b07159514d6c60bc79ed07",
+		"name": "Atlantico",
+		"unit_price": 25,
+		"id_product_type": {
+			"_id": "64b06ca85c3d574fc9577caa",
+			"name": "Cerveza"
+		},
+		"createdAt": "2023-07-13T21:49:13.256Z",
+		"updatedAt": "2023-07-13T21:49:13.256Z"
+	},
+	{
+		"_id": "64b07171514d6c60bc79ed09",
+		"name": "Vasos rojos",
+		"unit_price": 15,
+		"id_product_type": {
+			"_id": "64b06cb95c3d574fc9577cac",
+			"name": "Vasos desechables"
+		},
+		"createdAt": "2023-07-13T21:49:37.258Z",
+		"updatedAt": "2023-07-13T21:49:37.258Z"
+	},
+	{
+		"_id": "64b07177514d6c60bc79ed0b",
+		"name": "Vasos azules",
+		"unit_price": 12,
+		"id_product_type": {
+			"_id": "64b06cb95c3d574fc9577cac",
+			"name": "Vasos desechables"
+		},
+		"createdAt": "2023-07-13T21:49:43.360Z",
+		"updatedAt": "2023-07-13T21:49:43.360Z"
+	}
+]

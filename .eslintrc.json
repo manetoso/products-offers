@@ -1,0 +1,14 @@
+{
+  "extends": ["./node_modules/standard/eslintrc.json"],
+  "rules": {
+    "space-before-function-paren": "off",
+    "react/self-closing-comp": [
+      "error",
+      {
+        "component": false,
+        "html": false
+      }
+    ],
+    "multiline-ternary": "off",
+  }
+}

@@ -1,0 +1,82 @@
+[
+	{
+		"_id": "64b085f5526825a8a14bbff6",
+		"id_offer": {
+			"_id": "64b07452f01036cf398c3ede",
+			"name": "Compra 1 y llévate el 2do al 50% ¡Combínalo como quieras!",
+			"is_active": true,
+			"type": "porcentage",
+			"priority": 2
+		},
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T23:17:09.050Z",
+		"updatedAt": "2023-07-13T23:17:09.050Z"
+	},
+	{
+		"_id": "64b08604526825a8a14bbff8",
+		"id_offer": {
+			"_id": "64b07f60f01036cf398c3ee1",
+			"name": "Al comprar 5 cervezas solo pagaras por las 3 de mayor precio",
+			"is_active": true,
+			"type": "combo",
+			"priority": 3
+		},
+		"id_product_type": {
+			"_id": "64b06ca85c3d574fc9577caa",
+			"name": "Cerveza"
+		},
+		"createdAt": "2023-07-13T23:17:24.685Z",
+		"updatedAt": "2023-07-13T23:17:24.685Z"
+	},
+	{
+		"_id": "64b08619526825a8a14bbffa",
+		"id_offer": {
+			"_id": "64b07f81f01036cf398c3ee3",
+			"name": "Comprar 2 refrescos grandes y lleva unos vasos desechables gratis",
+			"is_active": true,
+			"type": "combo",
+			"priority": 4
+		},
+		"id_product_type": {
+			"_id": "64b06c9b5c3d574fc9577ca8",
+			"name": "Refresco"
+		},
+		"createdAt": "2023-07-13T23:17:45.347Z",
+		"updatedAt": "2023-07-13T23:17:45.347Z"
+	},
+	{
+		"_id": "64b0864e526825a8a14bbffd",
+		"id_offer": {
+			"_id": "64b073fef01036cf398c3edc",
+			"name": "20% descuento en articulos seleccionados",
+			"is_active": true,
+			"type": "porcentage",
+			"priority": 1
+		},
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T23:18:38.250Z",
+		"updatedAt": "2023-07-13T23:18:38.250Z"
+	},
+	{
+		"_id": "64b08676526825a8a14bc003",
+		"id_offer": {
+			"_id": "64b07fb8f01036cf398c3ee5",
+			"name": "Por cada $50 de producto en tu orden te descontamos $10 del total de tu orden",
+			"is_active": true,
+			"type": "global",
+			"priority": 5
+		},
+		"id_product_type": {
+			"_id": "64b0603b5c3d574fc9577ca5",
+			"name": "Bolsas de papas"
+		},
+		"createdAt": "2023-07-13T23:19:18.950Z",
+		"updatedAt": "2023-07-13T23:19:18.950Z"
+	}
+]
