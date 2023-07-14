@@ -14,3 +14,7 @@ To run the app in a local environment just need to have the next:
 	- npm run back:dev
 - Navigate to http://localhost:5173
 - Test the app
+
+# DB Diagram
+
+![DB Diagram](https://firebasestorage.googleapis.com/v0/b/crafting-table-77516.appspot.com/o/Screenshot_3.png?alt=media&token=190cfed1-d8e2-4fe7-9e70-772d467bca13 "DB diagram")
